@@ -1,1 +1,1 @@
-# smartbrain-server
+# smartbrain
